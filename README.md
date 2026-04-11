@@ -4,10 +4,9 @@
 
 > "人生不过如此，且行且珍惜。"
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue)](https://github.com/Panmax/linyutang-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/linyutang-skill/pulls)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将林语堂的生活艺术哲学与中西贯通的视野蒸馏为 Claude Code 可用的写作 skill，让 AI 以闲适幽默的笔调谈论人生与文化。**
 
 </div>
@@ -101,12 +100,12 @@ linyutang-skill/
 
 ---
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
-<sub>以林语堂之闲，品当代之味。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
