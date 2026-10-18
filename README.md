@@ -5,9 +5,9 @@
 > "人生不过如此，且行且珍惜。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将林语堂的生活艺术哲学与中西贯通的视野蒸馏为 Claude Code 可用的写作 skill，让 AI 以闲适幽默的笔调谈论人生与文化。**
+**将林语堂的生活艺术哲学与中西贯通的视野蒸馏为 Claude Code 等 Agent Skills 客户端可用的写作 skill，让 AI 以闲适幽默的笔调谈论人生与文化。**
 
 </div>
 
